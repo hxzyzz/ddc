@@ -1,0 +1,10 @@
+<?php 
+defined('IN_PHPCMS') or exit('Access Denied');
+defined('INSTALL') or exit('Access Denied');
+$module = 'comment';
+$modulename = 'ÆÀÂÛ';
+$introduce = 'ÆÀÂÛÄ£¿é';
+$author = 'phpcms team';
+$authorsite = 'http://www.phpcms.cn';
+$authoremail = '';
+?>
