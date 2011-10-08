@@ -863,3 +863,4 @@
 <?php exit;?>08-27 01:51:57 | 2 | extract() [<a href='function.extract'>function.extract</a>]: First argument should be an array | phpcms\modules\poster\index.php | 73
 <?php exit;?>09-05 20:05:07 | 2 | extract() [<a href='function.extract'>function.extract</a>]: First argument should be an array | phpcms\modules\poster\index.php | 73
 <?php exit;?>09-27 22:33:30 | 2 | extract() [<a href='function.extract'>function.extract</a>]: First argument should be an array | phpcms\modules\poster\index.php | 73
+<?php exit;?>10-08 21:31:08 | 2 | extract() [<a href='function.extract'>function.extract</a>]: First argument should be an array | phpcms\modules\poster\index.php | 73
